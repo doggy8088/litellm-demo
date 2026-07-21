@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "skills": {
+    "add-agent": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-agent/SKILL.md",
+      "computedHash": "4eb46b4d308f0b91b870812dd2f1029aafae39157d145fac9c45b470e2ef4f4e"
+    },
+    "add-key": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-key/SKILL.md",
+      "computedHash": "a56fa8da7f898d2636f1bc480bd1e2c00d8f7d2ab2bd29c87ed9ed332be25406"
+    },
+    "add-mcp": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-mcp/SKILL.md",
+      "computedHash": "6743a5032bf346facb378366950140c1ba6775ddb8d3f9c0ee6c6e9f516b77ba"
+    },
+    "add-model": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-model/SKILL.md",
+      "computedHash": "7be0aad7788ead10f56e677e8766b9385f6160b9ff3da2ffa7aa5a2ede32b182"
+    },
+    "add-org": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-org/SKILL.md",
+      "computedHash": "10cb204e0ea42c03e455f84ebbc224f3e332db8cb6f6d2047d739379c02840ea"
+    },
+    "add-team": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-team/SKILL.md",
+      "computedHash": "ee726fb59fd568290b12ade0d3cb0ec78651f2f4dcdd1a3757331f19b42b558f"
+    },
+    "add-user": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "add-user/SKILL.md",
+      "computedHash": "95553e32552cb00e169da67bb0f012341b8b2f52aed55daa8e9708accaa63ffd"
+    },
+    "delete-agent": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-agent/SKILL.md",
+      "computedHash": "327f84e804f6bed6b84e6e7356f57e1b11720936c15d1aed496f955d25a38ab9"
+    },
+    "delete-key": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-key/SKILL.md",
+      "computedHash": "be677d89754bdd4c5946586f3123950a919abe57e46813205ecd4e3d37a5d801"
+    },
+    "delete-mcp": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-mcp/SKILL.md",
+      "computedHash": "e892e755ced013fe715b39b932426549e8132ed6ff6a5735f0ff4d1522fff7ba"
+    },
+    "delete-model": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-model/SKILL.md",
+      "computedHash": "f27614de095ab64547745f86ff13051aa7aaa07d7592408672a5c2f18c3c350a"
+    },
+    "delete-org": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-org/SKILL.md",
+      "computedHash": "2d267935a8ebc8ba390d504c5b182c74834c7209de1a3d0d8045f1f063eca64e"
+    },
+    "delete-team": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-team/SKILL.md",
+      "computedHash": "9b3632fd52aa31f2029304358d31daf07292d772a3b7979158c24618c9dee785"
+    },
+    "delete-user": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "delete-user/SKILL.md",
+      "computedHash": "cb0b54540389397a50e3c6dc8221b46b0eb493a22fac234f7ffed8a8b326c91e"
+    },
+    "update-agent": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-agent/SKILL.md",
+      "computedHash": "a60f1aca3fb87192969c79bc564a731de73bb8b6d3a541eb2b4e87fb16f2fa13"
+    },
+    "update-key": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-key/SKILL.md",
+      "computedHash": "6992c443323684e5815d90bbc14610d553f915b6526b7be5bedf447b09cbccf1"
+    },
+    "update-mcp": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-mcp/SKILL.md",
+      "computedHash": "7513b8224eeb64701dc547ac65cb60e8275741eb853dffa36dd32d08358a9807"
+    },
+    "update-model": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-model/SKILL.md",
+      "computedHash": "e518d8c886d152dd9b14ea91de4e2fdbe3f39e77a5f4f7053c7950741894d0ac"
+    },
+    "update-team": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-team/SKILL.md",
+      "computedHash": "04f98c3d7ccd206857260f2dccc48e01a2b5ff08e90ee9aec52ccdc0e57e17be"
+    },
+    "update-user": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "update-user/SKILL.md",
+      "computedHash": "1e4badbb1550f4a18cbc1f7c319b1a4b57401a6df0a4a20029b38e766765d781"
+    },
+    "view-usage": {
+      "source": "BerriAI/litellm-skills",
+      "sourceType": "github",
+      "skillPath": "view-usage/SKILL.md",
+      "computedHash": "6c9dadb038a6599d219c7dbf69368f9e6300b40aa34f2b01bd619aed35ce6289"
+    }
+  }
+}

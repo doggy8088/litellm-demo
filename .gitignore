@@ -1,0 +1,20 @@
+# Environment & Credentials
+.env
+.env.*
+!.env.example
+.client.env
+*.pem
+*.key
+virtual-keys.txt
+
+# Database & Data Backups
+/postgres-data/
+/backups/
+*.sql
+*.tar.gz
+
+# Logs & Temp files
+*.log
+.DS_Store
+Thumbs.db
+
