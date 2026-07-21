@@ -8,7 +8,7 @@
 
 ## 🎯 專案亮點與核心特色
 
-- **統一 API 網關 (Unified API Gateway)**：整合 OpenAI、Anthropic、Ollama 等多種 LLM 供應商，提供標準 OpenAI 格式介面。
+- **統一 API 閘道 (Unified API Gateway)**：整合 OpenAI、Anthropic、Ollama 等多種 LLM 供應商，提供標準 OpenAI 格式介面。
 - **團隊成本與預算控制 (Budget & Cost Governance)**：支援針對 User / Team / Virtual Key 設定預算上限與重置週期（日/週/月），防止 API 額度超支。
 - **快取優化與回應加速**：整合 Redis 快取機制，並支援 Anthropic prompt caching 自動注入點，降低重複 Prompt 的 Token 消耗。
 - **高可用與持久化架構**：搭配 PostgreSQL 保存 Virtual Key、用戶權限與 Audit Log，支援資料庫備份與還原。
