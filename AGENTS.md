@@ -6,8 +6,8 @@
 
 ## 架構與來源
 
-- `compose.yaml`：服務拓樸、容器映像、連接埠、掛載與健康檢查的唯一來源。
-- `config.yaml`：LiteLLM 模型、路由與一般設定的唯一來源。
+- `compose.yaml`：服務拓樸 (LiteLLM Proxy, PostgreSQL, Redis)、容器映像、連接埠、掛載與健康檢查的唯一來源。
+- `config.yaml`：LiteLLM 模型、路由與一般設定 (快取與 Redis 設定) 的唯一來源。
 - `.env`：伺服器端密鑰、資料庫連線與映像設定；不得提交、列印或貼入日誌。
 - `.client.env`：測試用虛擬金鑰；不得提交、列印或貼入日誌。
 - `postgres-data/`：PostgreSQL 的持久化資料；禁止直接編輯、搬移或遞迴刪除。
